@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import App from './App';
 // no need to modify anything in here. The second test is looking for the returned JSX from this component
 class ExampleComponent extends Component {
   render() {
